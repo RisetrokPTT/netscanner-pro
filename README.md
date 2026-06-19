@@ -12,7 +12,7 @@ A fast, lightweight network discovery tool using ARP requests to identify active
 ## Installation
   Clone the repo:
    ```bash
-   git clone [https://github.com/RisetrokPTT/netscanner-pro.git](https://github.com/RisetrokPTT/netscanner-pro.git)
+   git clone https://github.com/RisetrokPTT/netscanner-pro.git
    cd netscanner-pro
   ```
 ## Install Dependencies
